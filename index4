@@ -1,0 +1,10 @@
+const dataMahasiswa = {
+    nama : 'Diah Ayu Ningtias',
+    npm : '19411044',
+    alamat : {
+        rt : '02',
+        rw : '02'
+    }
+}
+// console.log(dataMahasiswa.nama + ' - ' + dataMahasiswa.npm)
+console.log(dataMahasiswa.alamat.rt)
